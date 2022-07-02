@@ -1,5 +1,5 @@
 from tkinter import messagebox
-from botcity.web import WebBot, Browser
+from botcity.web import WebBot
 
 # Uncomment the line below for integrations with BotMaestro
 # Using the Maestro SDK
